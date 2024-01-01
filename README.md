@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm a final year Informatics student majoring in Computer Science with a passion in web development, machine learning, and UI/UX design
+#### I'm a final year Informatics student majoring in Computer Science with a passion in Web Development, Machine Learning, and UI/UX Design
 
 <div style="display: flex">
   <div>
@@ -8,10 +8,7 @@
   <div>
     <div>
       <h4>Languages and Tools</h4>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> </a>
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/> </a>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/> </a>
+      <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,tensorflow,laravel,kotlin,tailwind,figma&theme=light">
     </div>
     <div>
       <h4>Connect with Me</h4>
@@ -21,6 +18,12 @@
     </div>
   </div>
 </div>
+<br>
+<!-- <div style="display:flex">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheryle-18&theme=default">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cheryle-18&theme=default">
+</div> -->
+
 
 
 
